@@ -2,7 +2,7 @@
 
 [![Latest Unstable Version](http://imgh.us/unstable_1.svg)](https://github.com/NotAFanOfCamelCase/PHPMGen.git)
 
-> **Note:** Linux compatible only. This project has currently only been tested on CentOS 6.3. It is in its alpha release and therefore not ready for production. Use with caution.
+> **Note:** Linux compatible only. This project has currently only been tested on CentOS 6.3. It is in its alpha release and therefore not ready for production. Use at your own risk, or don't use at all, unless you're down, cool.
 
 The PHP Media Generator is an open source project that provides a means of composing and rendering basic animations. It implements the concept of a timeline,
 keyframes and objects on stage.
